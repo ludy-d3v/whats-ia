@@ -1,10 +1,12 @@
-
+# Dependências
 node_modules/
 dist/
+
+# Puppeteer Chromium pesado
+backend/node_modules/puppeteer-core/.local-chromium/
+
+# Sessões locais do WhatsApp
 .wwebjs_auth/
 
-
+# Variáveis de ambiente
 .env
-
-
-backend/node_modules/puppeteer-core/.local-chromium/
