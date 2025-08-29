@@ -1,0 +1,4 @@
+2025/08/27-19:37:24.569 4694 Creating DB C:\Users\ludy7\Downloads\whats-ia-starter\backend\.wwebjs_auth\session-ludy-session\Default\Local Storage\leveldb since it was missing.
+2025/08/27-19:37:24.623 4694 Reusing MANIFEST C:\Users\ludy7\Downloads\whats-ia-starter\backend\.wwebjs_auth\session-ludy-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/08/27-19:37:24.623 4694 Recovering log #3
+2025/08/27-19:37:24.624 4694 Reusing old log C:\Users\ludy7\Downloads\whats-ia-starter\backend\.wwebjs_auth\session-ludy-session\Default\Local Storage\leveldb/000003.log 
